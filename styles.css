@@ -120,7 +120,6 @@ body{
         margin-left:0;
     }
     .footer{
-        margin-left: 50px;
-        margin-top: 30px
+        text-align: center;
     }
 }
