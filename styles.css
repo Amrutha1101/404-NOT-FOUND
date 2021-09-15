@@ -89,6 +89,7 @@ body{
     }
     .image{
         margin:0;
+        width: 350px;
     }
     .content{
         text-align: center;
